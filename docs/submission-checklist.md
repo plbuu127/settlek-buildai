@@ -18,10 +18,10 @@ Rechecked 2026-10-27 KST against the [official rules](https://learn-ai-basics.de
 - [x] Publish the final English narrated/captioned [YouTube demo](https://youtu.be/KHORzTeLq6I). YouTube Studio shows Public and no copyright issues found; playback was verified in the signed-in browser.
 - [ ] Independently verify signed-out video playback. The anonymous web fetch was throttled; this is not evidence of a private video.
 - [x] Project name/pitch saved in Devpost; factual project-story and Skill Pack answers prepared at the creator's request; personal survey choices supplied by the creator.
-- [ ] Confirm full eligibility and save the remaining required fields after the repository/license/video URLs are ready.
+- [x] Creator confirmed final submission after reviewing the materials; required eligibility and rules/terms confirmations saved.
 - [x] Save the public repository and website URLs in Devpost Try it out; save the LICENSE URL and personal survey answers.
 - [x] Save the final public video URL in Devpost; the project preview contains the correct YouTube embed.
-- [ ] Creator checks the final form and submits before the deadline; verify submission confirmation.
+- [x] Submitted before the deadline on 2026-10-27 KST. Devpost displayed “Project submitted!” and “SUBMITTED TO — Build With AI: Basics.”
 
 Technical preparation is complete only to the extent recorded in verification.md. Eligibility and judging remain the organizer’s decision. The NVIDIA submission is a separate project and timeline.
 
@@ -31,7 +31,7 @@ Technical preparation is complete only to the extent recorded in verification.md
 2. A publicly visible YouTube or Vimeo URL showing the functioning app in less than three minutes. English UI plus English explanation/subtitles makes the flow accessible; a full English translation may accompany Korean narration.
 3. Creator-written project description and the actual required Devpost answers. The organizer update requires an explanation of Skill Pack use and an age-of-majority confirmation, with the repository link in Try it out. Reflections/exit-survey responses belong to the creator.
 4. Free access and testing instructions through the end of judging (2026-10-31 06:00 KST). The Site is now public, with anonymous example/preparation and signed-in AI/account functions. The existing shared AI request cap remains in force and is disclosed. Never share a personal ChatGPT password or API key as testing credentials.
-5. Final submission on Devpost before 2026-10-27 06:00 KST and confirmation of successful submission. The signed-in overview, project details, additional info and finalization screens were inspected on 2026-10-26; no final submission was made.
+5. Final submission on Devpost before 2026-10-27 06:00 KST and confirmation of successful submission. Final submission was confirmed on 2026-10-27 KST at https://devpost.com/software/settlek-qp8vld.
 
 The existing SettleK concept/design predates this build and is disclosed in README; new application code was written in the Skill Pack project. The [organizer forum reply](https://learn-ai-basics.devpost.com/forum_topics/45533-subject-eligibility-question-using-learn-skill-pack-after-initial-development) allows revisiting an idea when starting fresh with the Skill Pack from the beginning. This does not turn copied old code into a new project.
 
@@ -50,4 +50,4 @@ Overview requires Project name (60 characters maximum) and Elevator pitch (200 m
 
 Additional required fields: entrant type, country of residence, resources actually used (intro video/live build/office hours/Discord/none), impact of AI costs, current confidence from 1 to 5, a URL to the open-source LICENSE file, personal value categories, and how the Skill Pack/flipped interaction/planning documents met the technology requirement (255 characters maximum). Optional fields ask for organization name, one improvement for future participants, and more about personal value. Two eligibility confirmations cover age of majority and eligibility/new development using the Skill Pack. The final page has separate official-rules/terms consent and Submit project. Personal answers and confirmations remain the creator's responsibility.
 
-Current handoff: project name, pitch, story, technology tags, code/app links, license link and creator-provided survey answers are saved as a draft. The creator supplied and reviewed the final narration, authorized public YouTube publication, and the video URL is saved in Devpost. The draft is at 3/5 steps: eligibility checkboxes and final rules/terms consent remain unchecked. The creator requested another review before final submission. No submission confirmation is claimed.
+Current status: submitted to Build With AI: Basics on 2026-10-27 KST after the creator's review and explicit instruction to submit. The video, public repository, app, license, English project story and creator-provided survey answers were included. Devpost displayed “Project submitted!” and “SUBMITTED TO — Build With AI: Basics.” The earlier 3/5 draft and review hold are superseded. Submission confirmation is not a judging or eligibility award decision.

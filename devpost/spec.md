@@ -203,4 +203,4 @@ AI나 저장 연결이 중단돼도 입력과 마지막 계획을 유지한다. 
 - 공개 앱: https://settlek-buildai.sally127506.chatgpt.site
 - 영어 녹음·자막 데모(176.20초): https://youtu.be/KHORzTeLq6I
 - 예시와 선택 답변 기반 계획은 로그인 없이 이용할 수 있다. 실제 AI와 계정 저장은 방문자 본인의 ChatGPT 로그인이 필요하며 기존 공용 AI 요청 한도가 적용된다. 개인 비밀번호나 API 키를 테스트 계정으로 공유하지 않는다.
-- YouTube 공개 설정과 로그인된 브라우저 재생을 확인했다. 로그아웃 재생은 별도 확인이 남아 있다. Devpost에는 링크를 저장했으며 제작자 최종 검토 전까지 제출은 보류한다.
+- YouTube 공개 설정과 로그인된 브라우저 재생을 확인했다. 로그아웃 재생은 별도 확인이 남아 있다. 제작자 최종 검토와 제출 지시 후 2026-10-27 KST에 Devpost 제출을 완료했고 “Project submitted!” 표시를 확인했다. 제출 페이지: https://devpost.com/software/settlek-qp8vld

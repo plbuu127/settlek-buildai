@@ -239,4 +239,4 @@ At the creator's request, compare the previous completed plan with updated docum
 - Public app: https://settlek-buildai.sally127506.chatgpt.site
 - English narrated/captioned demo (176.20 seconds): https://youtu.be/KHORzTeLq6I
 - Examples and answer-based preparation work without sign-in. Real AI and account snapshots require the visitor's own ChatGPT sign-in and use the existing shared AI request allowance. Never share a personal password or API key as testing credentials.
-- YouTube Public visibility and signed-in browser playback were verified. A separate signed-out playback check remains outstanding. Links are saved to Devpost; final submission is on hold for the creator's review.
+- YouTube Public visibility and signed-in browser playback were verified. A separate signed-out playback check remains outstanding. After the creator's final review and explicit instruction, Devpost submission was completed on 2026-10-27 KST and the “Project submitted!” confirmation was verified: https://devpost.com/software/settlek-qp8vld.

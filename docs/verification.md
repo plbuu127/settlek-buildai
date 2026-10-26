@@ -125,3 +125,8 @@ The creator supplied an English voice recording, reviewed the combined result an
 YouTube Studio confirmed publication with visibility Public and no copyright issues found. The timed English SRT was saved as a creator-provided caption track. Playback advanced successfully on the watch page in the signed-in browser; an independent signed-out check remains outstanding because the anonymous web fetch was throttled. This limit is distinct from the verified Public setting.
 
 The video link was saved to the Devpost draft, and its project preview contains the correct YouTube embed. The entry remains a draft (3/5 steps), with eligibility and final rules/terms confirmations unchecked. The creator requested another review before final submission. No submission success is claimed.
+
+
+## Devpost submission confirmation — 2026-10-27 KST
+
+After reviewing the published materials, the creator explicitly instructed final submission. Required eligibility confirmations and final rules/terms agreement were saved, followed by Submit project. Devpost redirected to https://devpost.com/software/settlek-qp8vld and displayed “Project submitted!” with “SUBMITTED TO — Build With AI: Basics.” A screenshot of that confirmation was retained locally. This supersedes the earlier draft/review-hold status above and confirms submission, not a judging outcome.
