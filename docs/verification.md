@@ -60,6 +60,10 @@ Git author metadata contains a local personal/machine identity. It must be revie
 
 Publication update, 2026-10-27 KST: the creator authorized a public source snapshot excluding the original private Git metadata, and separately requested a public website. Sites confirmed access mode `public`, revision 2, at `2026-10-26T17:47:14.367382Z`. Earlier owner-private checks below describe the audience at the time they ran; they are not the current access policy. The existing provider request cap was not increased.
 
+Public verification: an anonymous clone of `https://github.com/plbuu127/settlek-buildai` at source snapshot `0c7edf88af7a22facd8ef911969c158a3f370962` matched all 175 audited files byte-for-byte. The LICENSE was anonymously accessible and GitHub detected MIT. The snapshot author and committer used GitHub noreply addresses. Later documentation-only commits update publication status.
+
+Unauthenticated browser-style HTTP requests to the public app returned 200 for the home page and `/api/status`, with AI configured, storage ready, no signed-in identity and 13 shared requests remaining at check time. `/api/records` returned 401. No additional paid inference was made. A plain Python user agent initially received 403; the browser-style request succeeded. These checks do not replace testing two distinct real production accounts.
+
 ## Creator-recorded walkthrough — 2026-10-27 KST
 
 The creator recorded the deployed app with a fictional D-10-1 job seeker in Seoul. This is creator verification, not testing by a recruited foreign resident.
