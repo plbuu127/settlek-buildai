@@ -231,3 +231,12 @@ The Korean technical specification now names the actual state, records and catal
 ## Final-review refinement — 2026-10-26
 
 At the creator's request, compare the previous completed plan with updated documents as added, removed, recheck and carried forward. The comparison profile excludes notes and stays on the device; account loading and a new example reset it. Add scoped official-check guidance for E-7-1, E-7-4, D-10-1, F-2 and F-6. F-2/F-6 do not automatically receive generic E-category employer candidates. The library has 15 reviewed references with scope and review dates. External foreign-resident usability testing remains unperformed because no participant was available; technical verification is recorded separately.
+
+
+## Sharing instructions — 2026-10-27
+
+- Public source and planning documents: https://github.com/plbuu127/settlek-buildai
+- Public app: https://settlek-buildai.sally127506.chatgpt.site
+- English narrated/captioned demo (176.20 seconds): https://youtu.be/KHORzTeLq6I
+- Examples and answer-based preparation work without sign-in. Real AI and account snapshots require the visitor's own ChatGPT sign-in and use the existing shared AI request allowance. Never share a personal password or API key as testing credentials.
+- YouTube Public visibility and signed-in browser playback were verified. A separate signed-out playback check remains outstanding. Links are saved to Devpost; final submission is on hold for the creator's review.

@@ -11,15 +11,16 @@ Rechecked 2026-10-27 KST against the [official rules](https://learn-ai-basics.de
 - [x] Creator used and recorded the completed app; practical walkthrough and app-map recap completed.
 - [x] Add English counterparts of scope, PRD, spec, build checklist and feature comparison; link them from README.
 - [x] Inspect existing Git history and prepare a source-only review ZIP excluding secrets/private learner context.
-- [x] Prepare a source snapshot that excludes private Git author metadata and preserves the original local history; publication is still pending authorization.
+- [x] Prepare a source snapshot that excludes private Git author metadata and preserves the original local history; publication was subsequently authorized.
 - [x] Public GitHub publication authorized; [repository](https://github.com/plbuu127/settlek-buildai) created with 175 source files. Anonymous clone matched all 175 audited files; the public LICENSE returned HTTP 200 and GitHub detected MIT.
 - [x] Public website access authorized and enabled on 2026-10-27 KST. Examples work anonymously; actual AI and account storage require the visitor's own sign-in. Existing shared AI request cap is disclosed; no personal password or API key is supplied.
 - [x] Creator recorded the working flow; edited English-caption video is 176.20 seconds and retains the core functions.
-- [ ] Upload the final video to public YouTube/Vimeo and verify the URL without login.
+- [x] Publish the final English narrated/captioned [YouTube demo](https://youtu.be/KHORzTeLq6I). YouTube Studio shows Public and no copyright issues found; playback was verified in the signed-in browser.
+- [ ] Independently verify signed-out video playback. The anonymous web fetch was throttled; this is not evidence of a private video.
 - [x] Project name/pitch saved in Devpost; factual project-story and Skill Pack answers prepared at the creator's request; personal survey choices supplied by the creator.
 - [ ] Confirm full eligibility and save the remaining required fields after the repository/license/video URLs are ready.
 - [x] Save the public repository and website URLs in Devpost Try it out; save the LICENSE URL and personal survey answers.
-- [ ] Add the final public video URL after voiceover completion and upload.
+- [x] Save the final public video URL in Devpost; the project preview contains the correct YouTube embed.
 - [ ] Creator checks the final form and submits before the deadline; verify submission confirmation.
 
 Technical preparation is complete only to the extent recorded in verification.md. Eligibility and judging remain the organizer’s decision. The NVIDIA submission is a separate project and timeline.
@@ -40,7 +41,7 @@ The existing SettleK concept/design predates this build and is disclosed in READ
 - [x] Five status-specific official-check cards and four additional scoped official sources.
 - [x] Five-minute usability protocol prepared.
 - [ ] Actual external foreign-resident participant test: no participant available; not completed. This must not be described as one participant having tested the app.
-- [x] Button-level recording plan prepared in demo-plan.md; creator recorded the flow and a below-three-minute English-caption edit is ready. Public video URL remains pending.
+- [x] Button-level recording plan prepared in demo-plan.md; creator recorded the flow and a below-three-minute English-caption edit is ready. The final narrated demo is public on YouTube.
 
 
 ## Fields verified in the signed-in form
@@ -49,4 +50,4 @@ Overview requires Project name (60 characters maximum) and Elevator pitch (200 m
 
 Additional required fields: entrant type, country of residence, resources actually used (intro video/live build/office hours/Discord/none), impact of AI costs, current confidence from 1 to 5, a URL to the open-source LICENSE file, personal value categories, and how the Skill Pack/flipped interaction/planning documents met the technology requirement (255 characters maximum). Optional fields ask for organization name, one improvement for future participants, and more about personal value. Two eligibility confirmations cover age of majority and eligibility/new development using the Skill Pack. The final page has separate official-rules/terms consent and Submit project. Personal answers and confirmations remain the creator's responsibility.
 
-Current handoff: project name, pitch, story, technology tags, code/app links, license link and creator-provided survey answers are saved as a draft. The creator is still preparing voiceover; no video has been uploaded. Eligibility checkboxes, final rules/terms consent, video URL and final submission remain incomplete. No submission confirmation is claimed.
+Current handoff: project name, pitch, story, technology tags, code/app links, license link and creator-provided survey answers are saved as a draft. The creator supplied and reviewed the final narration, authorized public YouTube publication, and the video URL is saved in Devpost. The draft is at 3/5 steps: eligibility checkboxes and final rules/terms consent remain unchecked. The creator requested another review before final submission. No submission confirmation is claimed.

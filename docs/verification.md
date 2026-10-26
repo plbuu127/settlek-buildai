@@ -76,7 +76,7 @@ The creator recorded the deployed app with a fictional D-10-1 job seeker in Seou
 - Hosted account update succeeded at `2026-10-26T16:12:36.749Z`, version 4, displaying “Your preparation is saved to your account.”
 - The history and installation-instructions screens were shown. This does not establish a second physical device or completed mobile installation.
 
-The creator's 333.88-second source recording was edited to 176.20 seconds, keeping all nine screens and core result moments. The English-caption version has 200 narration words and no audio track. All 5,286 output frames decoded without errors. A public video upload remains pending; no public URL is asserted.
+The creator's 333.88-second source recording was edited to 176.20 seconds, keeping all nine screens and core result moments. The initial English-caption version had 200 narration words and no audio track. All 5,286 output frames decoded without errors. The final narrated publication is recorded below.
 
 The 82 automated tests were rerun successfully on 2026-10-27 KST. No paid model request was made during this publication-preparation run.
 
@@ -116,3 +116,12 @@ The built-in fictional example now starts with a D-10-1 resident looking for wor
 Hosted owner Chrome verification: Try an example → Lease in my name → plan with three preparation candidates. Marked the lease Ready, held and reuse-confirmed; changed Employment from Looking for work to Have a new job offer; selected Update from answers (no AI call). The comparison showed two added candidates (employment contract and employer business-registration copy), one removed candidate (job-search outline), zero rechecks and two carried-forward items. Lease agreement displayed Ready status kept. The residence status remained D-10-1. These are candidate-list changes, not a permission or mandatory-document determination. No provider request or account-snapshot overwrite was performed for this check.
 
 Type checking and the production build passed. The 187-file deployment archive contained no configured runtime secret or private learner profile. Native deployment succeeded at `2026-10-26T14:35:45.678502+00:00`, source `7ae6331b14e86e98447dad8e03c0eeab72eff011`, deployment `appgdep_6adf65340c3c819188335c8001bc38e5`. Owner-private access was preserved.
+
+
+## Final narrated video publication — 2026-10-27 KST
+
+The creator supplied an English voice recording, reviewed the combined result and authorized public upload. The [final YouTube demo](https://youtu.be/KHORzTeLq6I) is 176.20 seconds. Its 5,286 H.264 frames and AAC audio decoded successfully. The original speaking speed was preserved; 0.5 seconds of leading silence were trimmed and gentle loudness correction applied. The encoded video stream remains identical to the approved English-caption edit. The ending reads: “SettleK helps foreign residents in Korea find their next step.”
+
+YouTube Studio confirmed publication with visibility Public and no copyright issues found. The timed English SRT was saved as a creator-provided caption track. Playback advanced successfully on the watch page in the signed-in browser; an independent signed-out check remains outstanding because the anonymous web fetch was throttled. This limit is distinct from the verified Public setting.
+
+The video link was saved to the Devpost draft, and its project preview contains the correct YouTube embed. The entry remains a draft (3/5 steps), with eligibility and final rules/terms confirmations unchecked. The creator requested another review before final submission. No submission success is claimed.

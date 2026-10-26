@@ -6,6 +6,8 @@ This Build With AI project reimplements the existing personal SettleK experience
 
 ## Working application
 
+Watch the [English narrated demo (2 minutes 56 seconds)](https://youtu.be/KHORzTeLq6I). It shows the working app, a real AI request, situation-change comparison, official sources, reminders and account saving.
+
 All nine screens are implemented: home, situation, follow-up questions, plan, documents, records, official sources, reminders and installation. The interface supports Korean and English, including mobile navigation.
 
 - Personal plans adapt to housing, work, study and integration answers. Existing answers are reused; conflicting facts are confirmed.
