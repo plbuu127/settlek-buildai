@@ -1,0 +1,70 @@
+{
+  "environment": "local-server",
+  "identity": "development mock identity, not hosted account authentication",
+  "data": "fictional test scenarios only",
+  "provider": "Nebius Token Factory",
+  "verifiedAt": "2026-10-26T09:17:37.350Z",
+  "cases": [
+    {
+      "id": "provided-housing-new-offer",
+      "passed": true,
+      "extractedFacts": [
+        {
+          "field": "housing",
+          "value": "provided"
+        },
+        {
+          "field": "employment",
+          "value": "offer"
+        }
+      ],
+      "documents": [
+        "residenceCard",
+        "accommodation",
+        "employmentContract",
+        "employerRegistration",
+        "consultationChecklist"
+      ],
+      "metadata": {
+        "mode": "live",
+        "provider": "Nebius Token Factory",
+        "model": "nvidia/nemotron-3-super-120b-a12b",
+        "requestId": "chatcmpl-afbee6c9e6a41d6f682e0168c969d55c",
+        "at": "2026-10-26T09:17:39.309Z",
+        "durationMs": 1912,
+        "tokens": 430,
+        "remaining": 17
+      }
+    },
+    {
+      "id": "own-lease-job-search",
+      "passed": true,
+      "extractedFacts": [
+        {
+          "field": "housing",
+          "value": "lease"
+        },
+        {
+          "field": "employment",
+          "value": "searching"
+        }
+      ],
+      "documents": [
+        "residenceCard",
+        "lease",
+        "jobSearchPlan",
+        "consultationChecklist"
+      ],
+      "metadata": {
+        "mode": "live",
+        "provider": "Nebius Token Factory",
+        "model": "nvidia/nemotron-3-super-120b-a12b",
+        "requestId": "chatcmpl-ba641a3b1d0d23d521718069cdf03ef7",
+        "at": "2026-10-26T09:17:40.748Z",
+        "durationMs": 1408,
+        "tokens": 437,
+        "remaining": 16
+      }
+    }
+  ]
+}

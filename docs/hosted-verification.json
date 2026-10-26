@@ -1,0 +1,34 @@
+{
+  "environment": "owner-private hosted Site",
+  "url": "https://settlek-buildai.sally127506.chatgpt.site",
+  "sourceCommit": "50183e4d9e54fe350aedfd18cdde3b2b6783c2c0",
+  "evidenceMethod": "actual browser interactions and visible provider metadata; fictional inputs only",
+  "identity": "platform-managed signed-in owner; no account identifier included",
+  "liveAnalysis": {
+    "provider": "Nebius Token Factory",
+    "model": "nvidia/nemotron-3-super-120b-a12b",
+    "requestId": "chatcmpl-39b0d628345d4fb228a33190464391cc",
+    "at": "2026-10-26T13:02:51.270Z",
+    "tokens": 428,
+    "housingConflictExplicitlyResolved": true,
+    "resolvedHousing": "provided",
+    "employment": "offer",
+    "documentCount": 5
+  },
+  "account": {
+    "firstSaveAt": "2026-10-26T13:05:17.017Z",
+    "version": 1,
+    "restoreVerifiedAfterLocalStatusChange": true,
+    "backupOriginalNoteExcluded": true,
+    "backupAnalysisExcluded": true,
+    "hostedUpdateConfirmed": false,
+    "hostedDeletePerformed": false
+  },
+  "calendar": {
+    "date": "2026-10-30",
+    "title": "Check address documents — fictional demo",
+    "optionalAlarm": "-P7D",
+    "downloadedFileContentsVerified": true,
+    "actualNotificationDeliveryVerified": false
+  }
+}

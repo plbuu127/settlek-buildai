@@ -1,0 +1,1 @@
+import SettleK from "./settlek"; export default function Page(){return <SettleK page="home"/>}
